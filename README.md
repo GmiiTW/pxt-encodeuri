@@ -1,4 +1,4 @@
-# robotbit
+# EncodeURI
 
 Extension for EncodeURI
 
