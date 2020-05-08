@@ -1,6 +1,6 @@
 {
     "name": "EncodeURI",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Extension for EncodeURI",
     "license": "MIT",
     "dependencies": {},
