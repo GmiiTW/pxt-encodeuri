@@ -1,4 +1,4 @@
-//% color="#000000" weight=10 icon="\uf36d"
+//% color="#000000" weight=10 icon="\uf121"
 namespace encodeuri {
     //% block="encodeURI $str"
     //% inlineInputMode=inline
